@@ -9,37 +9,37 @@
     }
   },
   "base_token": {
-    "id": "juno-network",
-    "chain_id": "lucina",
+    "id": "harborex",
+    "chain_id": "harborex-devnet-1",
     "token_address": "",
-    "symbol": "JUNOX",
-    "name": "Juno",
+    "symbol": "HARBOR",
+    "name": "Harbor",
     "decimals": 6,
     "logoURI": "https://cryptologos.cc/logos/anyswap-any-logo.svg?v=022",
     "tags": ["native"],
     "native": true,
-    "denom": "ujuno"
+    "denom": "uharbor"
   },
   "timestamp": "2021-06-12T00:00:00+00:00",
   "pools": [
     {
-      "pool_id": "JUNO-POOD",
+      "pool_id": "HARBOR-POOD",
       "pool_assets": [
         {
-          "id": "juno-network",
-          "chain_id": "lucina",
+          "id": "harborex",
+          "chain_id": "harborex-devnet-1",
           "token_address": "",
-          "symbol": "JUNOX",
-          "name": "Juno",
+          "symbol": "HARBOR",
+          "name": "Harbor",
           "decimals": 6,
           "logoURI": "https://cryptologos.cc/logos/anyswap-any-logo.svg?v=022",
           "tags": ["native"],
           "native": true,
-          "denom": "ujuno"
+          "denom": "uharbor"
         },
         {
           "id": "",
-          "chain_id": "lucina",
+          "chain_id": "harborex-devnet-1",
           "token_address": "juno1cnuw3f076wgdyahssdkd0g3nr96ckq8cwa2mh029fn5mgf2fmcmsuwdfj4",
           "symbol": "POOD",
           "name": "Poodle",
@@ -55,23 +55,23 @@
       "rewards_tokens": []
     },
     {
-      "pool_id": "JUNO-CRAB",
+      "pool_id": "HARBOR-CRAB",
       "pool_assets": [
         {
-          "id": "juno-network",
-          "chain_id": "lucina",
+          "id": "harborex",
+          "chain_id": "harborex-devnet-1",
           "token_address": "",
-          "symbol": "JUNOX",
-          "name": "Juno",
+          "symbol": "HARBOR",
+          "name": "Harbor",
           "decimals": 6,
           "logoURI": "https://cryptologos.cc/logos/anyswap-any-logo.svg?v=022",
           "tags": ["native"],
           "native": true,
-          "denom": "ujuno"
+          "denom": "uharbor"
         },
         {
           "id": "",
-          "chain_id": "lucina",
+          "chain_id": "harborex-devnet-1",
           "token_address": "juno14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9skjuwg8",
           "symbol": "CRAB",
           "name": "Crab",
@@ -89,11 +89,11 @@
           "rewards_address": "juno1dan30fymgvrknydd7gkrpyuh5sdcnqejy7sl20sfslscptn50clqsn05uj",
           "token_address": "",
           "swap_address": "",
-          "symbol": "JUNOX",
-          "name": "Juno",
+          "symbol": "HARBOR",
+          "name": "Harbor",
           "logoURI": "https://cryptologos.cc/logos/anyswap-any-logo.svg?v=022",
           "native": true,
-          "denom": "ujuno",
+          "denom": "uharbor",
           "decimals": 6
         },
         {
@@ -110,23 +110,23 @@
       ]
     },
     {
-      "pool_id": "JUNO-DAO",
+      "pool_id": "HARBOR-DAO",
       "pool_assets": [
         {
-          "id": "juno-network",
-          "chain_id": "lucina",
+          "id": "harborex",
+          "chain_id": "harborex-devnet-1",
           "token_address": "",
-          "symbol": "JUNOX",
-          "name": "Juno",
+          "symbol": "HARBOR",
+          "name": "Harbor",
           "decimals": 6,
           "logoURI": "https://cryptologos.cc/logos/anyswap-any-logo.svg?v=022",
           "tags": ["native"],
           "native": true,
-          "denom": "ujuno"
+          "denom": "uharbor"
         },
         {
           "id": "",
-          "chain_id": "lucina",
+          "chain_id": "harborex-devnet-1",
           "token_address": "juno1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8ts9z8cq8",
           "symbol": "DAO",
           "name": "DAO",
@@ -142,23 +142,23 @@
       "rewards_tokens": []
     },
     {
-      "pool_id": "JUNO-COSM",
+      "pool_id": "HARBOR-COSM",
       "pool_assets": [
         {
-          "id": "juno-network",
-          "chain_id": "lucina",
+          "id": "harborex",
+          "chain_id": "harborex-devnet-1",
           "token_address": "",
-          "symbol": "JUNOX",
-          "name": "Juno",
+          "symbol": "HARBOR",
+          "name": "Harbor",
           "decimals": 6,
           "logoURI": "https://cryptologos.cc/logos/anyswap-any-logo.svg?v=022",
           "tags": ["native"],
           "native": true,
-          "denom": "ujuno"
+          "denom": "uharbor"
         },
         {
           "id": "",
-          "chain_id": "lucina",
+          "chain_id": "harborex-devnet-1",
           "token_address": "",
           "symbol": "COSM",
           "name": "Cosm",
@@ -178,7 +178,7 @@
       "pool_assets": [
         {
           "id": "",
-          "chain_id": "lucina",
+          "chain_id": "harborex-devnet-1",
           "token_address": "juno14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9skjuwg8",
           "symbol": "CRAB",
           "name": "Crab",
@@ -190,7 +190,7 @@
         },
         {
           "id": "",
-          "chain_id": "lucina",
+          "chain_id": "harborex-devnet-1",
           "token_address": "juno1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8ts9z8cq8",
           "symbol": "DAO",
           "name": "DAO",
